@@ -2,15 +2,13 @@
 
 ## About
 
-I am an information security professional specializing in Governance, Risk, and Compliance (GRC), 
-with a focus on the Canadian federal contractor market. This portfolio demonstrates practical 
-competency in ISO 27001:2022 ISMS implementation, risk assessment, policy development, and 
-regulatory compliance aligned to the Government of Canada security framework.
+I am an information security professional specializing in Governance, Risk, and Compliance (GRC),
+with a focus on the Canadian federal contractor and financial sector markets. This portfolio
+demonstrates practical competency in ISO 27001:2022 ISMS implementation, risk assessment, policy
+development, and regulatory compliance across Government of Canada and OSFI regulatory frameworks.
 
-This repository contains a complete ISMS implementation for NorthBridge Technology Solutions Inc., 
-a fictional 220-person federal IT consulting firm operating in Ottawa, Ontario. Every document 
-was built from scratch and reflects real-world GRC practice for organizations handling Government 
-of Canada Protected B information.
+This repository contains two complete GRC projects built from scratch, each reflecting real-world
+practice for organizations operating in the Canadian regulated environment.
 
 ---
 
@@ -19,7 +17,7 @@ of Canada Protected B information.
 - ISO/IEC 27001:2022 -- primary ISMS framework
 - NIST Special Publication 800-30 Rev 1 -- risk assessment methodology
 - ITSG-33 -- Government of Canada IT Security Risk Management
-- OSFI B-13 -- Office of the Superintendent of Financial Institutions Technology and Cyber Risk Guideline
+- OSFI Guideline B-13 -- Technology and Cyber Risk Management (effective January 2024)
 - PIPEDA -- Personal Information Protection and Electronic Documents Act
 - Government of Canada Policy on Government Security
 
@@ -27,24 +25,31 @@ of Canada Protected B information.
 
 ## Portfolio Structure
 
-### 01 -- Scope and Context
+---
+
+### Project 1 -- ISO 27001:2022 ISMS Implementation
+**Organization:** NorthBridge Technology Solutions Inc.
+**Context:** Fictional 220-person federal IT consulting firm in Ottawa, Ontario handling
+Government of Canada Protected B information under active client contracts.
+
+#### 01 -- Scope and Context
 | Document | Description |
 |---|---|
 | NB-ISMS-001 Scope and Context Statement | Defines the ISMS boundary, organizational context, interested parties, and measurable security objectives |
 | NB-ISMS-002 Asset Inventory | Complete inventory of 25 information assets with CIA ratings, ownership, and classification |
 
-### 02 -- Risk Assessment
+#### 02 -- Risk Assessment
 | Document | Description |
 |---|---|
 | NB-ISMS-003 Risk Assessment Methodology | Defines the 5x5 scoring framework, likelihood and impact criteria, and risk acceptance thresholds |
 | NB-ISMS-004 Risk Register | 25 identified risks with inherent and residual scores, treatment options, owners, and due dates |
 
-### 03 -- Statement of Applicability
+#### 03 -- Statement of Applicability
 | Document | Description |
 |---|---|
 | NB-ISMS-005 Statement of Applicability | All 93 ISO 27001:2022 Annex A controls assessed with implementation status and justification |
 
-### 04 -- Policies
+#### 04 -- Policies
 | Document | Description |
 |---|---|
 | POL-001 Information Security Policy | Top-level policy establishing NorthBridge's security commitment, signed by CEO |
@@ -53,19 +58,42 @@ of Canada Protected B information.
 | POL-004 Incident Response Policy | Six-phase response lifecycle, P1/P2/P3 classification, GoC client notification timeframes |
 | POL-005 Vendor Management Policy | Four-tier vendor risk framework, assessment requirements, and offboarding process |
 
-### 05 -- Executive Summary
+#### 05 -- Executive Summary
 | Document | Description |
 |---|---|
 | NB-ISMS-000 Executive Summary | Plain-language summary of risk posture, control maturity, and recommended leadership actions |
 
-### 06 -- Supporting Docs
+#### 06 -- Supporting Docs
 | Document | Description |
 |---|---|
 | Methodology-Notes.md | Framework references and methodology rationale |
 
 ---
 
+### Project 2 -- OSFI B-13 Gap Assessment
+**Organization:** Lakeview Trust Corporation
+**Context:** Fictional 850-person federally regulated trust company in Toronto, Ontario
+with $14.2 billion in assets under administration, subject to OSFI supervisory oversight.
+
+#### 01 -- Scope and Profile
+| Document | Description |
+|---|---|
+| LT-B13-001 Company Profile and Assessment Scope | Establishes organizational context, assessment methodology, B-13 framework overview, and gap severity criteria |
+
+#### 02 -- Gap Analysis
+| Document | Description |
+|---|---|
+| LT-B13-002 Gap Analysis Spreadsheet | 34 requirements assessed across all five B-13 domains with domain maturity scores, severity ratings, and remediation actions |
+
+#### 03 -- Executive Summary
+| Document | Description |
+|---|---|
+| LT-B13-003 Executive Summary Report | Board-level summary of compliance position, top ten critical findings, recommended board actions, and 12-month remediation roadmap |
+
+---
+
 ## Certifications
+
 - CompTIA Security+
 - ISC2 Certified in Cybersecurity
 - Google Cloud Cybersecurity Certification
@@ -73,5 +101,6 @@ of Canada Protected B information.
 ---
 
 ## Contact
-- www.linkedin.com/in/ashkon-irani
+
+- [www.linkedin.com/in/ashkon-irani](https://www.linkedin.com/in/ashkon-irani)
 - ashkon.irani@gmail.com
