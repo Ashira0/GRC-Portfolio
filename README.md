@@ -37,13 +37,13 @@ Government of Canada Protected B information under active client contracts.
 | Document | Description |
 |---|---|
 | NB-ISMS-001 Scope and Context Statement | Defines the ISMS boundary, organizational context, interested parties, and measurable security objectives |
-| NB-ISMS-002 Asset Inventory | Complete inventory of 25 information assets with CIA ratings, ownership, and classification. Download to view full color-coded spreadsheet with criticality dashboard. |
+| NB-ISMS-002 Asset Inventory | Complete inventory of 25 information assets with CIA ratings, ownership, and classification. Download to view full colour-coded spreadsheet with criticality dashboard. |
 
 #### 02 -- Risk Assessment
 | Document | Description |
 |---|---|
 | NB-ISMS-003 Risk Assessment Methodology | Defines the 5x5 scoring framework, likelihood and impact criteria, and risk acceptance thresholds |
-| NB-ISMS-004 Risk Register | 25 identified risks with inherent and residual scores, treatment options, owners, and due dates. Download to view full color-coded register with summary dashboard and filtering. |
+| NB-ISMS-004 Risk Register | 25 identified risks with inherent and residual scores, treatment options, owners, and due dates. Download to view full colour-coded register with summary dashboard and filtering. |
 
 #### 03 -- Statement of Applicability
 | Document | Description |
@@ -84,7 +84,7 @@ with $14.2 billion in assets under administration, subject to OSFI supervisory o
 #### 02 -- Gap Analysis
 | Document | Description |
 |---|---|
-| LT-B13-002 Gap Analysis Spreadsheet | 34 requirements assessed across all five B-13 domains with domain maturity scores, severity ratings, and remediation actions. Download to view full color-coded gap analysis with maturity dashboard and domain summaries. |
+| LT-B13-002 Gap Analysis Spreadsheet | 34 requirements assessed across all five B-13 domains with domain maturity scores, severity ratings, and remediation actions. Download to view full colour-coded gap analysis with maturity dashboard and domain summaries. |
 
 #### 03 -- Executive Summary
 | Document | Description |
@@ -108,7 +108,7 @@ in support of DND contract renewal requiring demonstrated ITSG-33 compliance.
 #### 02 -- Gap Analysis
 | Document | Description |
 |---|---|
-| VS-ITSG-002 Gap Analysis Spreadsheet | 57 controls assessed across all 18 ITSG-33 control families against the Medium baseline with implementation status, gap descriptions, severity ratings, and remediation actions. Download to view full color-coded analysis with control family summary and dashboard. |
+| VS-ITSG-002 Gap Analysis Spreadsheet | 57 controls assessed across all 18 ITSG-33 control families against the Medium baseline with implementation status, gap descriptions, severity ratings, and remediation actions. Download to view full colour-coded analysis with control family summary and dashboard. |
 
 #### 03 -- Security Assessment Report
 | Document | Description |
