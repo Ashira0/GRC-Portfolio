@@ -5,9 +5,10 @@
 I am an information security professional specializing in Governance, Risk, and Compliance (GRC),
 with a focus on the Canadian federal contractor and financial sector markets. This portfolio
 demonstrates practical competency in ISO 27001:2022 ISMS implementation, risk assessment, policy
-development, and regulatory compliance across Government of Canada and OSFI regulatory frameworks.
+development, and regulatory compliance across ISO 27001, OSFI B-13, and ITSG-33 frameworks covering
+the Canadian federal contractor and financial sector markets.
 
-This repository contains two complete GRC projects built from scratch, each reflecting real-world
+This repository contains three complete GRC projects built from scratch, each reflecting real-world
 practice for organizations operating in the Canadian regulated environment.
 
 ---
@@ -89,6 +90,30 @@ with $14.2 billion in assets under administration, subject to OSFI supervisory o
 | Document | Description |
 |---|---|
 | LT-B13-003 Executive Summary Report | Board-level summary of compliance position, top ten critical findings, recommended board actions, and 12-month remediation roadmap |
+
+---
+
+### Project 3 -- ITSG-33 Gap Assessment
+**Organization:** Veridia Systems Group Inc.
+**Context:** Fictional 340-person federal IT professional services contractor in Ottawa,
+Ontario holding active contracts with DND, PSPC, Treasury Board Secretariat, and Health
+Canada. All technical staff hold minimum Secret security clearance. Assessment conducted
+in support of DND contract renewal requiring demonstrated ITSG-33 compliance.
+
+#### 01 -- System Characterization
+| Document | Description |
+|---|---|
+| VS-ITSG-001 System Characterization and Assessment Scope | Defines the organization, VIPOP system architecture, authorization boundary, and formal ITSG-33 security categorization (Medium -- Protected B) |
+
+#### 02 -- Gap Analysis
+| Document | Description |
+|---|---|
+| VS-ITSG-002 Gap Analysis Spreadsheet | 57 controls assessed across all 18 ITSG-33 control families against the Medium baseline with implementation status, gap descriptions, severity ratings, and remediation actions |
+
+#### 03 -- Security Assessment Report
+| Document | Description |
+|---|---|
+| VS-ITSG-003 Security Assessment Report | Formal GoC-style SAR presenting findings by control family, six critical findings, residual risk assessment by family, and an Interim Authority to Operate recommendation to the Authorizing Official |
 
 ---
 
